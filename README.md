@@ -1,0 +1,2 @@
+# mvvm
+利用defineProperty和Proxy简单实现数据的双向绑定
